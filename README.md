@@ -2,7 +2,7 @@
 
 Code used for the master's thesis "Learning to drive by predicting the future".
 
-Includes code for running Direct Future Prediction (DFP) and Deep Q-Networks (DQN) on a modified version of OpenAIs CarRacing.
+Includes code for running Direct Future Prediction ([DFP](DFP_car_racing.py)) and Deep Q-Networks ([DQN](DQN_car_racing.py)) on a modified version of OpenAIs CarRacing.
 
 ![scenario0](imgs/scenario0.png)
 
