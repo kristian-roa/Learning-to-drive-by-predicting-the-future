@@ -1,6 +1,6 @@
 # Learning to drive by predicting the future
 
-Code used for the master's thesis "Learning to act by predicting the future".
+Code used for the master's thesis "Learning to drive by predicting the future".
 
 Includes code for running Direct Future Prediction (DFP) and Deep Q-Networks (DQN) on a modified version of OpenAIs CarRacing.
 
