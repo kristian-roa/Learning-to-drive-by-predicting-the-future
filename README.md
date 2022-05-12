@@ -2,6 +2,8 @@
 
 Code used for the master's thesis "Learning to act by predicting the future".
 
+Includes code for running Direct Future Prediction (DFP) and Deep Q-Networks (DQN) on a modified version of OpenAIs CarRacing.
+
 ![scenario0](imgs/scenario0.png)
 
 Modifications to CarRacing can be found in [car_racing.py](gym/envs/box2d/car_racing.py)
